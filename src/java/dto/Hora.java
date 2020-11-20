@@ -23,7 +23,7 @@ import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author DISA - UNAB
+ * @author Carlos Chinga
  */
 @Entity
 @Table(name = "hora")

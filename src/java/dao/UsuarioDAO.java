@@ -14,7 +14,7 @@ import javax.persistence.Query;
 
 /**
  *
- * @author Carlos
+ * @author Carlos Chinga
  */
 public class UsuarioDAO {
 

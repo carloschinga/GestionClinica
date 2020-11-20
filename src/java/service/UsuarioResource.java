@@ -18,7 +18,7 @@ import javax.ws.rs.core.MediaType;
 /**
  * REST Web Service
  *
- * @author DISA - UNAB
+ * @author Carlos Chinga
  */
 @Path("usuario")
 @Produces(MediaType.APPLICATION_JSON)

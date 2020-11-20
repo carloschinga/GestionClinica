@@ -24,7 +24,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author DISA - UNAB
+ * @author Carlos Chinga
  */
 @Entity
 @Table(name = "detalle")

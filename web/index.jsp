@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 19-nov-2020, 21:05:02
-    Author     : DISA - UNAB
+    Author     : Carlos Chinga
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
